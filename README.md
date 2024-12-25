@@ -3,7 +3,7 @@ Welcome to my profile! 🎉 This is a visitor counter. (Refresh the page to see 
 
 <img src="https://profile-counter.glitch.me/alicsaid/count.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Said!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
 
 
 ## 👨 About me
@@ -15,8 +15,8 @@ My expertise is in the JS ecosystem, specifically in building full-stack applica
 ## 📬 Social media
 <p> Find out more about me & feel free to connect with me here:</p>
  
-[![Linkedin Badge](https://img.shields.io/badge/muhammedtalic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/muhammed-talić-a29666201/))](https://www.linkedin.com/in/muhammed-talić-a29666201/)
-[![Gmail Badge](https://img.shields.io/badge/-muhammedtalic.it@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammedtalic.it@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/muhammedtalic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/said-ali%C4%87-03471518b/))]
+[![Gmail Badge](https://img.shields.io/badge/-alic.said@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alic.sad@gmail.com)](mailto:alic.said@gmail.com)
 
 <br>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=27F744&background=672EFF00&width=595&lines=Let's+connect+and+build+a+better+future+together!)](https://git.io/typing-svg)

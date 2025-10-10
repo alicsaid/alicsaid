@@ -25,5 +25,3 @@ Analytical Thinking · Attention to Detail · Problem Solving · Communication �
 [LinkedIn](https://www.linkedin.com/in/said-ali%C4%87-03471518b/) · [Email](mailto:alic.said@gmail.com)
 
 ---
-
-<img src="https://profile-counter.glitch.me/alicsaid/count.svg">

@@ -1,27 +1,39 @@
 # Said Alić
 
-**QA Automation Engineer** with industrial experience in ensuring software quality through automated testing solutions, specializing in **Cypress**.  
-
-An honest and highly motivated individual with a passion for learning and tackling new challenges. Enthusiastic about hiking and exploring nature. A team player who values clear communication and collaboration, but prefers calm and focused work environments. Known for a strong work ethic, attention to detail, and a high sense of responsibility.
-
----
-
-### 🧩 Core Skills
-Analytical Thinking · Attention to Detail · Problem Solving · Communication · Collaboration · Time Management · Adaptability · Continuous Learning  
+**QA Automation Engineer** focused on **web E2E testing** with **Cypress** and **TypeScript**.  
+I build and maintain stable automated suites for user-critical workflows, triage failures, and improve **CI reliability** as products evolve.
 
 ---
 
-### ⚙️ Technical Skills
-**Testing & QA:** Manual Testing · Automation Testing · Regression · Smoke · Performance · Accessibility · End-to-End · SDLC · Agile  
-**Tools & Frameworks:** Cypress · JMeter · TestRail · Qase · BrowserStack · Lighthouse  
-**Languages:** JavaScript · TypeScript · Python · Java · Kotlin  
-**Web Development:** React · Node.js · Express · Django · Tailwind CSS · Bootstrap · HTML · CSS  
-**Databases & APIs:** PostgreSQL · MongoDB · MySQL · Swagger API  
-**DevOps & Collaboration:** Git · GitHub · Postman · Jira · Azure DevOps · Trello · Slack · Figma  
+## QA Focus
+- E2E automation for web applications (**Cypress**)
+- Coverage for critical user flows (smoke/regression strategy)
+- Defect reporting with clear repro steps and actionable logs
+- Refactoring/modularizing test utilities to reduce flakiness
+- CI pipeline stability and test documentation (plans/cases)
 
 ---
 
-### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/said-ali%C4%87-03471518b/) · [Email](mailto:alic.said@gmail.com)
+## Technical Skills
+
+### Test Automation & QA
+- **Cypress** (primary)
+- End-to-End Testing
+- API Testing (**Postman**, Swagger/OpenAPI)
+- Regression & Smoke Testing
+- Performance Testing (JMeter)
+- Accessibility Testing (Lighthouse)
+- Bug Tracking & Defect Triage
+- SDLC · Agile
+
+### Tools & Platforms
+- Test management: **Qase**
+- Cross-browser: **BrowserStack**
+- Tracking/collab: **Jira**, **Azure DevOps**, **Trello**
+- Version control: **Git**
 
 ---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/said-ali%C4%87-03471518b/
+- Email: alic.said@gmail.com
